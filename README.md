@@ -3,19 +3,12 @@
 
 
 <div>
- <img src="html-square.png" alt="">
- <img src="css-square.png" alt="">
- <img src="javascript-square.png" alt="">
- <img src="AdobeIllustrator_white.png" alt="">
- <img src="Github_white.png" alt=""> 
- <img src="figma.jfif" alt="">
- <img src="bootstrap.png" alt="">
+ <img src="html-square.png" height: 50px; width: 50px;  alt="">
+ <img src="css-square.png" width: 50px; height: 50px; alt="">
+ <img src="javascript-square.png" width: 50px; height: 50px; alt="">
+ <img src="AdobeIllustrator_white.png" width: 50px; height: 50px; alt="">
+ <img src="Github_white.png" width: 50px; height: 50px; alt=""> 
+ <img src="figma.jfif" width: 50px; height: 50px; alt="">
+ <img src="bootstrap.png" width: 50px; height: 50px;  alt="">
 </div>
 
-<style>
-div img {
-width: 50px;
- height: 50px;
-}
- 
-</style>
