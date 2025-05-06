@@ -1,6 +1,7 @@
 <h2>Arya</h2> 
 <h4>Programmer front-end 💻</h4>
 
+
 <div>
  <img src="html-square.png" alt="">
  <img src="css-square.png" alt="">
@@ -10,3 +11,11 @@
  <img src="figma.jfif" alt="">
  <img src="bootstrap.png" alt="">
 </div>
+
+<style>
+img {
+width: 50px;
+ height: 50px;
+}
+ 
+</style>
